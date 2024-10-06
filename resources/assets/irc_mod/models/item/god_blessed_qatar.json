@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "irc_mod:item/god_blessed_qatar"
+  }
+}
