@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "irc_mod:charoite"
+    },
+    "A": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "CAC",
+    "CCC"
+  ],
+  "result": {
+    "item": "minecraft:budding_amethyst"
+  },
+  "show_notification": true
+}

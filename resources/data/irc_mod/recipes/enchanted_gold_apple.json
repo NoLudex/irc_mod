@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "irc_mod:pyrope"
+    },
+    "A": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PAP",
+    "PPP"
+  ],
+  "result": {
+    "item": "minecraft:enchanted_golden_apple"
+  },
+  "show_notification": true
+}

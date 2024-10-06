@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "irc_mod:charoite_block",
+    "irc_mod:euclase_block",
+    "irc_mod:moldavite_block",
+    "irc_mod:pyrope_block",
+    "irc_mod:deepslate_charoite_ore"
+  ]
+}

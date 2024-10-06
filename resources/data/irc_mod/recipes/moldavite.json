@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "irc_mod:moldavite_block"
+    }
+  ],
+  "result": {
+    "item": "irc_mod:moldavite",
+    "count": 9
+  },
+  "show_notification": true
+}

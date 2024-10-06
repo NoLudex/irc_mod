@@ -1,0 +1,33 @@
+{
+  "values": [
+    "irc_mod:event_bag",
+    "irc_mod:event_book",
+    "irc_mod:event_camera",
+    "irc_mod:event_coin",
+    "irc_mod:event_key",
+    "irc_mod:event_music_box",
+    "irc_mod:event_potion",
+    "irc_mod:event_race",
+    "irc_mod:event_rich",
+    "irc_mod:event_romania",
+    "irc_mod:event_timer",
+    "irc_mod:event_board",
+    "irc_mod:event_gift",
+    "irc_mod:event_glasses",
+    "irc_mod:event_kitchen",
+    "irc_mod:event_list",
+    "irc_mod:event_luck",
+    "irc_mod:event_melon",
+    "irc_mod:event_quest",
+    "irc_mod:event_rolling_pin",
+    "irc_mod:event_settings",
+    "irc_mod:event_sun",
+    "irc_mod:event_tnt",
+    "irc_mod:event_game_cube",
+    "irc_mod:icon_accept",
+    "irc_mod:icon_accept_blue",
+    "irc_mod:icon_medal",
+    "irc_mod:icon_question",
+    "irc_mod:icon_warning"
+  ]
+}

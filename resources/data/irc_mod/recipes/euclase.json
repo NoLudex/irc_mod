@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "irc_mod:euclase_block"
+    }
+  ],
+  "result": {
+    "item": "irc_mod:euclase",
+    "count": 9
+  },
+  "show_notification": true
+}

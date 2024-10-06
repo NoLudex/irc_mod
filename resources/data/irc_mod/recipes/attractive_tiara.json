@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "irc_mod:tiara"
+    },
+    {
+      "item": "irc_mod:pyrope"
+    }
+  ],
+  "result": {
+    "item": "irc_mod:attractive_tiara",
+    "count": 1
+  },
+  "show_notification": true
+}
